@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376115287951",
+    "project_id": "final-year-project-5fc77",
+    "storage_bucket": "final-year-project-5fc77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376115287951:android:dd0e03d0c793fc04895dfa",
+        "android_client_info": {
+          "package_name": "com.eventaa.okkali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwuRaJxZAGY_oVlGZAzcDLMnydaHBcJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376115287951:android:eb4006436cc5ad45895dfa",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwuRaJxZAGY_oVlGZAzcDLMnydaHBcJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
